@@ -1,0 +1,96 @@
+{
+  "protein_sequence": "WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARG",
+  "structural_sequence": "HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHC",
+  "sub_sequence": [
+    {
+      "gap": 1,
+      "sequences": [
+        {
+          "protein_sequence": "WPKLRGRRAIAAAVQAIR",
+          "average": -0.13,
+          "structural_sequence": "HHHHHHHHHHCCHHHHHH"
+        },
+        {
+          "protein_sequence": "NFEEAQVDVSAVTGAAAG",
+          "average": 0.26,
+          "structural_sequence": "HHHHHHHHHHCCHHHHHC"
+        }
+      ]
+    },
+    {
+      "gap": 2,
+      "sequences": [
+        {
+          "protein_sequence": "WFLARDIAAGAA",
+          "average": 0.90,
+          "structural_sequence": "HHHHHHHCHHHH"
+        },
+        {
+          "protein_sequence": "NKEGVASATQAR",
+          "average": -0.93,
+          "structural_sequence": "HHHHHHHCHHHH"
+        },
+        {
+          "protein_sequence": "PERQRVAVVAIG",
+          "average": 0.22,
+          "structural_sequence": "HHHHHHCCHHHC"
+        }
+      ]
+    },
+    {
+      "gap": 3,
+      "sequences": [
+        {
+          "protein_sequence": "WKRRAAAQI",
+          "average": -0.82,
+          "structural_sequence": "HHHHHCHHH"
+        },
+        {
+          "protein_sequence": "NEAVVATAA",
+          "average": 0.88,
+          "structural_sequence": "HHHHHCHHH"
+        },
+        {
+          "protein_sequence": "PLGRIAVAR",
+          "average": 0.57,
+          "structural_sequence": "HHHHHCHHH"
+        },
+        {
+          "protein_sequence": "FEQDSVGAG",
+          "average": -0.37,
+          "structural_sequence": "HHHHHCHHC"
+        }
+      ]
+    },
+    {
+      "gap": 4,
+      "sequences": [
+        {
+          "protein_sequence": "WEGDATAG",
+          "average": -0.72,
+          "structural_sequence": "HHHHCHHC"
+        },
+        {
+          "protein_sequence": "NLQAAVA",
+          "average": 0.91,
+          "structural_sequence": "HHHHCHH"
+        },
+        {
+          "protein_sequence": "PERVAGI",
+          "average": 0.07,
+          "structural_sequence": "HHHHCHH"
+        },
+        {
+          "protein_sequence": "FRVIVQA",
+          "average": 1.36,
+          "structural_sequence": "HHHHCHH"
+        },
+        {
+          "protein_sequence": "KARSAAR",
+          "average": -1.19,
+          "structural_sequence": "HHHHHHH"
+        }
+      ]
+    }
+  ]
+}

@@ -35,6 +35,6 @@ void group_by_gap_and_compute_hydrophobicity(string seq) {
 }
 
 int main() {
-    group_by_gap_and_compute_hydrophobicity("SFTGTTGVQMGNDVYKIMLW");
+    group_by_gap_and_compute_hydrophobicity("WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARG");
     return 0;
 }

@@ -25,6 +25,6 @@ void gapPrint(string seq) {
 }
 
 int main() {
-    gapPrint("SFTGTTGVQMGNDVYKIMLW");
+    gapPrint("HHHHHHHHHHHHHHHHHHHHCCCCHHHHHHHHHHHC");
     return 0;
 }
